@@ -43,7 +43,7 @@ def main(args):
     if args.loglevel is not None:
         logger.setLevel(args.loglevel)
 
-
+    logger.debug(locals())
 
     if args.list_speakers:
         api.list_speakers()
@@ -117,6 +117,8 @@ def main(args):
 
 
 if __name__ == "__main__":
+
+
 
     parser = config.create_argument_parser()
 

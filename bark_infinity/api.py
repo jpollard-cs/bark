@@ -510,9 +510,9 @@ def generate_audio_long(
 
     global gradio_try_to_cancel
     global done_cancelling
-
-    kwargs = load_all_defaults(**kwargs)
     logger.debug(locals())
+    kwargs = load_all_defaults(**kwargs)
+
 
 
     history_prompt = None
