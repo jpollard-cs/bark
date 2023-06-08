@@ -1,22 +1,29 @@
-# 🚀 BARK INFINITY Voice Cloning 🎶 🌈✨🚀 
-
-⚡ Low GPU memory? No problem. CPU offloading. ⚡ Somewhat easy install?
+# 🚀 BARK INFINITY, Shape your voices. 🎶 🌈✨🚀 
 
 [![Open Gradio In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1t84qbluQSg7V-YzKit8cD3btmgysT_8V?usp=sharing) Barebone Gradio Running in Google Colab
 
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Lebdbbq7xOvl9Q430ly6sYrmYoDvlglM?usp=sharing) Basic Colab Notebook
 
+# 🎉 Bark One Click Windows Installer 🎉  
 
-# Now: 🎤 Clone a Voice
-
-![image](https://github.com/JonathanFly/bark/assets/163408/de392897-2428-4adf-87db-0db83ffc321c)
-
-
-# 🎉 Install Bark Infinity Any OS 🎉  
+![LAUNCH_already_installed_bark_infinity_windows.bat](https://github.com/JonathanFly/bark/assets/163408/fcd91d15-6bee-44c7-8c99-95ca48fbc1d5)
 
 
-## Mamba Install (Recommended for now) 
+Download this zip file: [https://github.com/JonathanFly/bark/releases/tag/one-click-bark-installer](https://github.com/JonathanFly/bark/releases/tag/one-click-bark-installer) 
+
+1. Download this zip file: [one-click-bark-installer.zip](https://github.com/JonathanFly/bark/releases/tag/one-click-bark-installer) 
+2. Click on ***INSTALL_bark_infinity_windows.bat***
+3. Wait
+
+
+⚡ Low GPU memory? No problem. CPU offloading. ⚡ Somewhat easy install?
+
+# 🎉 Install Bark Infinity Any OS With Mamba (or Conda) 🎉  
+
+![LAUNCH_already_installed_bark_infinity_windows.bat](https://github.com/JonathanFly/bark/assets/163408/fcd91d15-6bee-44c7-8c99-95ca48fbc1d5)
+
+## Mamba Install (Still Works) 
 
 (Mamba is a fast version of conda. They should work the same.)
 
