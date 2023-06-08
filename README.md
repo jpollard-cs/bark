@@ -15,15 +15,18 @@ Download this zip file: [https://github.com/JonathanFly/bark/releases/tag/one-cl
 1. Download this zip file: [one-click-bark-installer.zip](https://github.com/JonathanFly/bark/releases/tag/one-click-bark-installer) 
 2. Click on ***INSTALL_bark_infinity_windows.bat***
 3. Wait
+4. Clik LAUNCH_already_installed_bark_infinity_windows.bat
+
 
 
 ⚡ Low GPU memory? No problem. CPU offloading. ⚡ Somewhat easy install?
 
 # 🎉 Install Bark Infinity Any OS With Mamba (or Conda) 🎉  
 
-![LAUNCH_already_installed_bark_infinity_windows.bat](https://github.com/JonathanFly/bark/assets/163408/fcd91d15-6bee-44c7-8c99-95ca48fbc1d5)
 
 ## Mamba Install (Still Works) 
+
+![cpic](https://github.com/JonathanFly/bark/assets/163408/65ad739d-552e-43d2-b937-8c83837bdf8b)
 
 (Mamba is a fast version of conda. They should work the same.)
 
